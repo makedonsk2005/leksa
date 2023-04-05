@@ -1,0 +1,3 @@
+git config user.name "Aleksandra Mayorova"
+git config user.email leksa.makedonsk@gmail.com
+cat .git/config
